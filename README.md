@@ -182,7 +182,7 @@
 <a href="https://x.com/_AyaKa47_">
   <img src="https://img.shields.io/badge/X-%40__AyaKa47__-FFD6E8?style=for-the-badge&logo=x&logoColor=FF6FA5" alt="x" />
 </a>
-<a href="https://discord.com/users/MChara">
+<a href="https://discord.com/users/YukiSKR>
   <img src="https://img.shields.io/badge/Discord-MChara-FFE3EF?style=for-the-badge&logo=discord&logoColor=FF6FA5" alt="discord" />
 </a>
 
